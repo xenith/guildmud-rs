@@ -1,0 +1,7 @@
+[package]
+name = "guildmud-rs"
+version = "0.0.1"
+authors = ["Justin Seabrook-Rocha <xenith@xenith.org>"]
+edition = "2018"
+
+[dependencies]
